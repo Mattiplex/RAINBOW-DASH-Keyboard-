@@ -54,5 +54,9 @@ ok so today i finish most of the wiring just the led that is still unroute
 day 26  
 did nothing, fr really tired that day  
 day 27  
-so today i routed the led (ongoing) and i fix some issue col7 unrouted and added two capacitor for both the OLED screen and the Mcp23017 controller 
+so today i routed the led (ongoing) and i fix some issue col7 unrouted and added two capacitor for both the OLED screen and the Mcp23017 controller  
+day28  
+today i added a ground plane to my pcb and finish routing the led and buddy there's tons of issue with gnd between the led ps: i totally forgot abt journaling yesterday so there won't be any picture today  
+day29   
+so today i did lots of work i fix the ground issue and now im working to place the capacitor at the ideal position so were at the very last stage of pcb designing , and oh the deadline is approaching fast. i wonder if i'll finish in time . 
 
