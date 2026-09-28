@@ -1,5 +1,5 @@
 # Nyan-Cat-Keyboard-
-A keyboard Straight out of 2011 
+A MLP theme KEYBOARD !!!
 
 oh yeah , watch me take on this four day challenge to create this keyboard with no experience. (edit) it got extended  
 pictures outside the files are pictures that log my development bfr i mess up and redo parts of sch and the whole part of my pcb
@@ -58,5 +58,8 @@ so today i routed the led (ongoing) and i fix some issue col7 unrouted and added
 day28  
 today i added a ground plane to my pcb and finish routing the led and buddy there's tons of issue with gnd between the led ps: i totally forgot abt journaling yesterday so there won't be any picture today  
 day29   
-so today i did lots of work i fix the ground issue and now im working to place the capacitor at the ideal position so were at the very last stage of pcb designing , and oh the deadline is approaching fast. i wonder if i'll finish in time . 
+so today i did lots of work i fix the ground issue and now im working to place the capacitor at the ideal position so were at the very last stage of pcb designing , and oh the deadline is approaching fast. i wonder if i'll finish in time .  
+day 30   
+alright today i got my finish routing my PCB and ran into issue with the capacitor , but other than i decided to do a major theme change to go more inline with the theme of my setup. i fix the capacitor issue and now placing the 3d key switch model manually one at a time
+
 
