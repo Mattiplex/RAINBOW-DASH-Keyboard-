@@ -1,4 +1,4 @@
-# Nyan-Cat-Keyboard-
+# RAINBOW-DASH-KEYBOARD-
 A MLP theme KEYBOARD !!!
 
 oh yeah , watch me take on this four day challenge to create this keyboard with no experience. (edit) it got extended  
