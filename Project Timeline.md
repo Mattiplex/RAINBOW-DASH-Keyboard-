@@ -1,30 +1,50 @@
-Project Timeline 
+# Project Timeline 
 this file is going to be all text pictures will be in the two file
 
-Day 1  
+## Day 1  
 early sketch of my keyboard added
 9 hours later, free again
-i made the schematics for my keyboard thou it's still missing two functions 
-![image alt](https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/9811351db7481c3b1548433b4f07e169f08a4c62/early%20sketch%20of%20my%20keyboard.jpg)
-Day 2  
-finished wiring up my schematics , added a mcp23008 extension chip (1hour30min)  
-Day 3  
-run the electric test , found some problems , got feedback on led wiring , fix it waiting for more feedback on #keeb  
-Day 4     
-didn't do anything today, i was working on another project  
-day 5  
+i made the schematics for my keyboard thou it's still missing two functions  
+(editing matthew here) don't add one cap for each led it's overkill
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/9811351db7481c3b1548433b4f07e169f08a4c62/early%20sketch%20of%20my%20keyboard.jpg" width="200" height="300" > <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/e17458b3d952d75ce4bb5f7b2738ad60cd80e742/Screenshot%202026-08-28%20003423.png" width="420" height="420">
+
+## Day 2  
+finished wiring up my schematics , added a mcp23008 extension chip, rotary encoder and OLED Display  
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/e17458b3d952d75ce4bb5f7b2738ad60cd80e742/Screenshot%202026-08-29%20013725.png" width="420" height="420"> <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/e17458b3d952d75ce4bb5f7b2738ad60cd80e742/Screenshot%202026-08-29%20193702.png" height="420" width="420">
+
+## Day 3
+run the electric test , found some problems , got feedback on led wiring , fix it while waiting for more feedback on #keeb 
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/e17458b3d952d75ce4bb5f7b2738ad60cd80e742/Screenshot%202026-08-29%20unsure%20led%20circuit.png" height="420" width="420" >   
+
+## Day 4     
+didn't do anything today, i was working on another project   
+
+## day 5  
 finish solving the led problem and schematics, research abt footprints, will assign them tmr  
-day 6  
-finished assigning the footprint , now welcome to wiring hell , also i'll be gone for two days so day 7 & 8 won't be any update  
-day9&10  
+ <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/e17458b3d952d75ce4bb5f7b2738ad60cd80e742/Screenshot%202026-09-01%20004836.png" height="420" width="420" >
+## day 6  
+finished assigning the footprint , now welcome to wiring hell , also i'll be gone for two days so day 7 & 8 won't be any update    
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/e17458b3d952d75ce4bb5f7b2738ad60cd80e742/welcome%20to%20wiring%20hell.png" height="420" width="420" >  
+
+# now from this point on i made lots of stupid mistake and time consuming that would have not happen if i do more research before hand 
+
+# day9&10  
 change my switch to kalih HS switch , started the layout for my keyboard , wondering how to add usb c power to my pcb  
-day11  
-i opted to switch to clone pico that have usb C , i'm also finished with the layout of the switches but i still got some question so imma wait for some feedback from #keeb (ouff turns out my capacitors are wrong , i switched to ceramic ones)  
-day 12  
+(editing matthew here) yeah so i didn't know kle placer exist at this point so i manually align all my keys which is very time consuming and not consistent at all   
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/e17458b3d952d75ce4bb5f7b2738ad60cd80e742/Screenshot%202026-09-06%20021131.png" height="420" width="600">  
+
+# day11  
+i opted to switch to clone pico that have usb C , i'm also finished with the layout of the switches but i still got some question so imma wait for some feedback from #keeb (ouff turns out my capacitors are wrong , i switched to ceramic ones) 
+<
+# day 12  
 did nothing particular today  
-day 13  
+# day 13  
 routed the first row of the keyboard , will continue tmr.  
-day 14 15 16 17  
+# day 14 15 16 17  
 ok so i didn't do much these four days because i was soldering my blinker which didn't work :(  
 day 18  
 ok so big update so i deleted all my trace that i wire on day 13 bcs it's too messy and the 5v trace is too thin. i also change my
