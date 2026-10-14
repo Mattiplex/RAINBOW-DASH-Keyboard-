@@ -2,10 +2,10 @@ Project Timeline
 this file is going to be all text pictures will be in the two file
 
 Day 1  
-
 early sketch of my keyboard added
 9 hours later, free again
-i made the schematics for my keyboard thou it's still missing two functions (2hours)   
+i made the schematics for my keyboard thou it's still missing two functions 
+![image alt](https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/9811351db7481c3b1548433b4f07e169f08a4c62/early%20sketch%20of%20my%20keyboard.jpg)
 Day 2  
 finished wiring up my schematics , added a mcp23008 extension chip (1hour30min)  
 Day 3  
