@@ -59,37 +59,72 @@ ok so i didn't do much these four days because i was soldering my blinker which 
 ok so big update so i deleted all my trace that i wire on day 13 bcs it's too messy and the 5v trace is too thin. i also change my
 diode to smd components. i also placed more components down and i decide to switch the diodes position to the side of the switch instead of on top.   
 <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/ead4a26a6a4bc74087bea5c91484bb2e52153a54/Screenshot%202026-09-13%20235950.png" height="420" width="420" >
-day 19  
-alright so i work on the led placement and holy hell i made a mistake 
-(editing matthew here) i don't really recall what mistake i made here 
-day 20  
-contemplating my design choice 
-(editing matthew here) so i thought i show u guys how i been arranging my HS socket , im basically eyeballing it with a refrence image 
-<img src="" height="420" width="420" > 
-day 21   
-ok after watching a few tutorial , i refined the schematics of my key switch matrix and switch out the mcp23008 extension chip with mcp22017 chip and as for the pcb it itself it's back to square one.  <img src="" height="420" width="420" > <img src="" height="420" width="420" >
-day 22  
-ok so today i log a small section like 35min , so i learn how to use a placer to help me place my keyswitch to my KLE layout that i want
-<img src="" height="420" width="420" > <img src="" height="420" width="420" >
-day 23  
-today i work on more of my layout and finished placing all the components for my layout , but when i run DRC there seem to some issue with LED board edge clearance so i ask on #keeb and haven't started to route my pcb yet  <img src="" height="420" width="420" > <img src="" height="420" width="420" >
-day 24  
-ok so today i solve the clearance issue and route the pcb thou im only like 45% done <img src="" height="420" width="420" >
-day 25  
+# day 19  
+alright so i work on the led placement and holy hell i made a mistake   
+(editing matthew here) so i think the mistake i made here was not flipping the switch and led so i have to delete the trace that i made , also check out this absolute ridiculous capacitor.  
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/photo%20folder%20unlabel/Screenshot%202026-09-06%20191534.png" height="420" width="420" > <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/photo%20folder%20unlabel/Screenshot%202026-09-06%20192130.png" height="420" width="420" >   
+
+# day 20  
+contemplating my design choice   
+(editing matthew here) so i thought i show u guys how i been arranging my HS socket , im basically eyeballing it with a refrence image   
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/photo%20folder%20unlabel/Screenshot%202026-09-17%20011624.png" height="420" width="420" >   
+
+# from this point on is where i did a lot redesigning and i also did a theme change , what theme ? well it's in the name 
+
+# day 21   
+ok after watching a few tutorial , i refined the schematics of my key switch matrix and switch out the mcp23008 extension chip with mcp22017 chip and as for the pcb it itself it's back to square one.   
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/1.%20refined%20design%20of%20matrix.png" height="520" width="520" > <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/2.%20PCB%20back%20to%20square%20one.png" height="420" width="420" >  
+
+# day 22  
+ok so today i log a small section like 35min , so i learn how to use a placer to help me place my keyswitch to my KLE layout that i want , i also have some issue with the layout as the keyswitch number don't match when i do geographical reannotation  
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/3.%20it%20look%20so%20much%20better.png" height="420" width="420" > <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/4.%20weird%20layout%20error.png" height="420" width="420" >  
+
+# day 23    
+
+today i work on more of my layout and finished placing all the components for my layout , but when i run DRC there seem to some issue with LED board edge clearance so i ask on #keeb and haven't started to route my pcb yet  
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/5.%20weird%20drc%20error.png" height="420" width="420" > <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/6.%20finished%20placing%20components.png" height="420" width="420" >  
+
+# day 24    
+
+ok so today i solve the clearance issue and route the pcb thou im only like 45% done    
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/7.halfway%20there.png" height="420" width="420" >   
+
+# day 25    
+
 ok so today i finish most of the wiring just the led that is still unroute   
-day 26
-did nothing, fr really tired that day  
-day 27  
-so today i routed the led (ongoing) and i fix some issue col7 unrouted and added two capacitor for both the OLED screen and the Mcp23017 controller <img src="" height="420" width="420" > 
-day28
-today i added a ground plane to my pcb and finish routing the led and buddy there's tons of issue with gnd between the led ps: i totally forgot abt journaling yesterday so there won't be any picture today  
-day29  
-so today i did lots of work i fix the ground issue and now im working to place the capacitor at the ideal position so we're at the very last stage of pcb designing , and oh the deadline is approaching fast. i wonder if i'll finish in time .  
-day 30  
-alright today i got my finish routing my PCB and ran into issue with the capacitor , but other than i decided to do a major theme change to go more inline with the theme of my setup. i fix the capacitor issue and now placing the 3d key switch model manually one at a time  
-day 31   
-today i finished my pcb and place all the 3d models , started on the case but there's an issue with fusion stp file import, but i found a workaround so no biggie thou there's not much time left.     
-day 32     
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/10.%20led%20route%20ongoing%2C%20fix%20some%20issue.png" height="420" width="420">   
+
+# day 26
+did nothing, fr really tired that day    
+
+# day 27  
+so today i routed the led (ongoing) and i fix some issue col7 unrouted and added two capacitor for both the OLED screen and the Mcp23017 controller  
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/9.add%20two%20new%20cap.png" height="420" width="420" >   
+
+# day28  
+
+today i added a ground plane to my pcb and finish routing the led and buddy there's tons of issue with gnd between the led ps: i totally forgot abt journaling yesterday so there won't be any picture today    
+
+# day29   
+
+so today i did lots of work i fix the ground issue and now im working to place the capacitor at the ideal position so we're at the very last stage of pcb designing , and oh the deadline is approaching fast. i wonder if i'll finish in time .  <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/9.%2098%25%20done.png" height="420" width="420">   
+
+# day 30    
+
+alright today i got my finish routing my PCB and ran into issue with the capacitor , but other than i decided to do a major theme change to go more inline with the theme of my setup. i fix the capacitor issue and now placing the 3d key switch model manually one at a time   
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/11.%20well%20no%20(blood)%20but%20mostly%20sweat%20and%20tears.png" height="420" width="420">  
+
+# day 31     
+
+today i finished my pcb and place all the 3d models , started on the case but there's an issue with fusion stp file import, but i found a workaround so no biggie thou there's not much time left.    
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/12.%20finished%20PCB.png" height="420" width="420" > <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/a1cfaf54834bf63aefc0b2363b2067371121c933/pictures%20in%20descending%20order%20%3D%20date/13.3d%20model.png" height="420" width="420" >  
+
+
+# day 32     
 this is the last day before the deadline, so i pushed hard and hit a new record for time spend in front of a computer almost 6 hours and half of the time is just me failing and trying again
 . i made the bottom case and the plate and boy do i fail a lot, it's so hard to judge the distance and sometimes i even get the range wrong and i have to redo everything, there's also random miniusclue gaps that will left out when i extrude and it's always so frustating to fix it  
 anyway i think i have some pictures of the progress i made but idk.
