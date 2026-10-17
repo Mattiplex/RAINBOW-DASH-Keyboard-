@@ -21,7 +21,34 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
   | 1. | first design session | 14Hour 33Min 58 Sec |   
   | 2. | second design session | 22Hour 17Min 35Sec |  
   | 3. | CAD design session | 24Hour 27Min 46Sec |  
-  | 4. | total time | 61Hour 33Min 58Sec |
+  | 4. | total time | 61Hour 33Min 58Sec |  
+
+# price 
+
+## PCB (JLCPCB) 
+
+| No | DESC | MYR | USD | 
+| -- | ---- | --- | --- |
+| 1. | PCB Board (5 piece) | - | 21.23USD | 
+| - | Total | - | 21.23 USD |
+
+## Solder on component  (ALIEXPRESS & ELEMENT14)
+| No | DESC | MYR | USD | 
+| -- | ---- | --- | --- |
+
+## ACCESSORY (ALIEXPRESS)
+| No | DESC | MYR | USD | 
+| -- | ---- | --- | --- |    
+
+## CASE (PCBWAY & LOCAL 3D PRINTING SERVICE)
+
+| No | DESC | MYR | USD | 
+| -- | ---- | --- | --- |
+
+
+
+
+
  
 
 
