@@ -35,10 +35,30 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
 ## Solder on component  (ALIEXPRESS & ELEMENT14)
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |
+| 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | RM24.60 | 6.02$ |
+| 2. | 
+| 3. |
+| 4. | 
+| 5. |
+| 6. |
+| 7. |
+| 8. | 
+| 9. | 
+| 10. |
+| 11. | 
+| 12. | 
+| 13. |
+| 14. |
+| - | 
 
 ## ACCESSORY (ALIEXPRESS)
 | No | DESC | MYR | USD | 
-| -- | ---- | --- | --- |    
+| -- | ---- | --- | --- |  
+| 1. |
+| 2. |
+| 3. |
+| 4. | 
+| - |
 
 ## CASE (PCBWAY & LOCAL 3D PRINTING SERVICE)
 
