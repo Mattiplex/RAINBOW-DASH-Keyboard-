@@ -46,10 +46,11 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
 | -- | ---- | --- | --- |
 | 1. | Top Case (local) | RM105.62 | 25.86$ |
 | 2. | Bottom Case (local) | RM287.71 | 70.46$ |
-| 3. | Custom Knob | RM 1.94 | 0.48$ | 
+| 3. | Custom Knob | RM 1.96 | 0.48$ | 
 | 4. | aluminum Plate (PCBWAY) | - | 17.86$ | 
 | 5. | shipping Fee (local) | RM9.60 | 2.35$ |
-| 6. | shipping Fee (PCBWAY) | - | - | 
+| 6. | shipping Fee (PCBWAY) | - | - |   
+| - | Total | - | - | 
 
 
 
