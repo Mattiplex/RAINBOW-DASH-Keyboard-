@@ -16,9 +16,7 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
 
 # ASSEMBLY 
 
-Since Github don't allow video to play here click here to watch assembly >>> [click me](https://files.catbox.moe/uo1qzy.avi)
 
- </video>
 
 # Time   
 
