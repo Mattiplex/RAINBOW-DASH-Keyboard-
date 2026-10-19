@@ -36,28 +36,30 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |
 | 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | RM24.60 | 6.02$ |
-| 2. | Kalih Hot Swappable socket (110pc) | RM24.75 |
-| 3. | 330R resistor 100pc | RM4.59 |
-| 4. | 4700R resistor 100pc | RM10 |
-| 5. | MCP23017 DIP28 2pc | RM24.56 | 
-| 6. | EC11 Rotary Encoder 1pc | RM2.98 |
-| 7. | M2 Heatset Insert L 3mm 50pc | RM5.77
-| 8. | M3 Heatset Insert L 3mm 50pc | RM6.02
-| 9. | HZYUEGOU M2 hex flathead screw 50pc | 
-| 10. |
-| 11. | 
-| 12. | 
-| 13. |
-| 14. |
-| - | 
+| 2. | Kalih Hot Swappable socket (110pc) | RM24.75 | 6.06$ |
+| 3. | 330R resistor 100pc | RM4.59 | 1.12$ |
+| 4. | 4700R resistor 100pc | RM10 | 2.45$ |
+| 5. | MCP23017 DIP28 2pc | RM24.56 | 6.02$ |
+| 6. | EC11 Rotary Encoder 1pc | RM2.98 | 0.73$ |
+| 7. | M2 Heatset Insert L 3mm 50pc | RM5.77 | 1.41$ |
+| 8. | M3 Heatset Insert L 3mm 50pc | RM6.02 | 1.47$ |
+| 9. | HZYUEGOU M2 hex wafer head screw  5mm 50pc | RM3.83 | 0.94$ |
+| 10. | HZUEGOU M3 hex Wafer head screw 20mm 25pc | Rm4.55 |  1.11$ |
+| 11. | 1N4148 0805 SOD-323 diode 100pc | RM3.88 |  0.95$ |
+| 12. | SK6812 MINi-E RGB reverse mount 100pc | RM23.33 | 5.71$ |
+| 13. | Third party Pi-Pico with Usb-c 1pc | Rm10.49 | 2.57$ |
+| 14. | 0.91inch OLED SCREEN 1pc | RM9.65 | 2.36$ |
+| 15. | 1mm transparent acrylic sheet 1 pc | RM3.75 | 0.92$ |
+| 16. | Shipping Fee (ALIEXPRESS) | RM 10.7 | 2.62$ |
+| - | total | RM173.61 | 42.46$ |
 ## ACCESSORY (ALIEXPRESS)
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |  
-| 1. | Jaycomia Rainbow PBT Keycaps Set | RM83.15 | 
-| 2. | Kalih Box Jade Tactile switch (90pc) | RM83.63 |
-| 3. | Durock Stabilizer V3 set 4(2u) 1(6.25u) | RM74.55
-| 4. | Fancy rainbow coiled Usb-C cable with aviator connector | RM32.52 | 
-| - |
+| 1. | Jaycomia Rainbow PBT Keycaps Set | RM83.15 | 20.37$ |
+| 2. | Kalih Box Jade Tactile switch (90pc) | RM83.63 | 20.49$ |
+| 3. | Durock Stabilizer V3 set 4(2u) 1(6.25u) | RM74.55 | 18.26$ |
+| 4. | Fancy rainbow coiled Usb-C cable with aviator connector | RM32.52 | 7.97$ |
+| - | total | RM273.85 | 67.09$ | 
 
 ## CASE (PCBWAY & LOCAL 3D PRINTING SERVICE)
 
