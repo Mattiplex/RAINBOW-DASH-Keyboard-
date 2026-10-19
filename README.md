@@ -36,28 +36,27 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |
 | 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | RM24.60 | 6.02$ |
-| 2. | 
-| 3. |
-| 4. | 
-| 5. |
-| 6. |
-| 7. |
-| 8. | 
-| 9. | 
+| 2. | Kalih Hot Swappable socket (110pc) | RM24.75 |
+| 3. | 330R resistor 100pc | RM4.59 |
+| 4. | 4700R resistor 100pc | RM10 |
+| 5. | MCP23017 DIP28 2pc | RM24.56 | 
+| 6. | EC11 Rotary Encoder 1pc | RM2.98 |
+| 7. | M2 Heatset Insert L 3mm 50pc | RM5.77
+| 8. | M3 Heatset Insert L 3mm 50pc | RM6.02
+| 9. | HZYUEGOU M2 hex flathead screw 50pc | 
 | 10. |
 | 11. | 
 | 12. | 
 | 13. |
 | 14. |
 | - | 
-
 ## ACCESSORY (ALIEXPRESS)
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |  
-| 1. |
-| 2. |
-| 3. |
-| 4. | 
+| 1. | Jaycomia Rainbow PBT Keycaps Set | RM83.15 | 
+| 2. | Kalih Box Jade Tactile switch (90pc) | RM83.63 |
+| 3. | Durock Stabilizer V3 set 4(2u) 1(6.25u) | RM74.55
+| 4. | Fancy rainbow coiled Usb-C cable with aviator connector | RM32.52 | 
 | - |
 
 ## CASE (PCBWAY & LOCAL 3D PRINTING SERVICE)
