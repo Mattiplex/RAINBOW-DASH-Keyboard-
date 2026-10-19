@@ -127,5 +127,34 @@ today i finished my pcb and place all the 3d models , started on the case but th
 # day 32     
 this is the last day before the deadline, so i pushed hard and hit a new record for time spend in front of a computer almost 6 hours and half of the time is just me failing and trying again
 . i made the bottom case and the plate and boy do i fail a lot, it's so hard to judge the distance and sometimes i even get the range wrong and i have to redo everything, there's also random miniusclue gaps that will left out when i extrude and it's always so frustating to fix it  
-anyway i think i have some pictures of the progress i made but idk.
+anyway i think i have some pictures of the progress i made but idk.  
+
+# day 33   
+alright so today i decided to switch to the stardance challenge and ship my keyboard there.  
+
+ # Devblog 1 
+ so today i went back to the pcb and added more graphics cause why not , i got more time now   
+ (editing matthew here) every blog from now  on will follow this format.    
+
+ # Devblog 2   
+ so what i did today, i continue working on my keyboard cad files today, boy o boy is tiring , i have to manually place and align each keycap and it took a while bcs im such a perfectionist. anyway i decided to use a top mount layout for my keyboard so there will three layer a bottom case , the plate and the upper case. im so impatient , i want to finish this quickly !!!  
+
+# Devblog 3   
+so this few days i just been doing CAD , the plate finish , i got the top case rough shape finish and i almost finish the bottom case just the usb-c port left. i went through three different design variations and eventually settle down for the design for the bottom case (in picture). i also model my own custom rotary encoder knob. i want to import a knurl design at first but then the model i import was too large and when i scale it down it won’t fit. either way we’re getting close to finishing the design phase.  
+
+# Devblog 4   
+this is it im done with my case
+
+this is it we’re done with the designing phase ,
+things i did:
+
+   -changed the 3d model of the pi pico with a usb c
+   -cut out the upper case heatset insert hole
+   -cut out space for the screw head sticking out at the plate
+   -cut out the usb-c charger hole
+   -rounded the case edges
+   -oooo idk if u notice but there’s a big hole on top of pico
+   -and that’s there on purpose so i can add a clear acrylic plate there.
+   -oh yeah and the text there also have space below to insert some light dispersing material.
+
 
