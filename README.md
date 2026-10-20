@@ -3,6 +3,8 @@ A MLP theme KEYBOARD !!!
 
 oh yeah , watch me take on this four day challenge to create this keyboard with no experience. (editing matthew here) so keeb got extended but i miss the deadline so im shipping to STARDANCE
 
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20165513.png">
+
 # The What,Why and What i learn.  
 ## The WHAT
 RAINBOW DASH KEYBOARD is a 75% and TKL Hybrid MLP theme keyboard. this keyboard features 84 mechanical switches with hot swappable socket ,Backlit south faacing RGB LED,Rotary Encoder and a 0.91 inch OLED screen.this keyboard is power by 3rd party Pico clone board with usb-c port. i also design a custom Case that uses a bottom mount system, The case will be 3d printed with FDM technology Using ABS and be painted later using spray paint. The plate will be fabricated using aluminum 6061-T6 Alloy and have an anodized blue and glass bead sanding finish.There's also a custom Knob that will be printed using PLA.
@@ -13,6 +15,21 @@ so this is my first keyboard, so i decide to challenge myself to create somethin
 ## What have i LEARN ?  
 i learn lots of stuff, first of all is to do tons of research before going through something you're not familiar with. i also how to make a keyboard , how to plan your keyboard before hand so you don't mess up later in your PCB phase. (i learn all of these the hard way).
 CAD is a bit harder for me because im such a perfectionist. but everything gets better with the flow of time as you gain experience. now the KEYWORD here is failing. during the whole length of this project , i fail a lot and that's how i learn ,you learn by failing and trying again.
+
+# The PCB 
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20165513.png"> <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20165417.png">
+
+# The Case 
+
+i used Bottom style mount to house my pcb , since i think it's the most balance layout between sound , cost and complexity . i also made the plate to integrate inside the bottom case so the plate would sit flush in the case. 
+* Bottom Case: PETG WHITE
+* TOP Case : PETG WHITE
+* KEYBOARD PLATE : Laser Cut Aluminum (anodized blue + bead blast)
+* CUSTOM Knob : PLA WHITE
+
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20002253.png"> <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20003000.png">
+
 
 # ASSEMBLY Video
 
@@ -25,7 +42,8 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
   | 1. | first design session | 14Hour 33Min 58 Sec |   
   | 2. | second design session | 22Hour 17Min 35Sec |  
   | 3. | CAD design session | 24Hour 27Min 46Sec |  
-  | 4. | total time | 61Hour 33Min 58Sec |  
+  | 4. | prepping model and inspection | 39Min |
+  | - | total time | 62Hour 12Min 58Sec | 
 
 # price 
 
