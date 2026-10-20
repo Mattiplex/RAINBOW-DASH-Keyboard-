@@ -7,7 +7,7 @@ oh yeah , watch me take on this four day challenge to create this keyboard with 
 
 # The What,Why and What i learn.  
 ## The WHAT
-RAINBOW DASH KEYBOARD is a 75% and TKL Hybrid MLP theme keyboard. this keyboard features 84 mechanical switches with hot swappable socket ,Backlit south faacing RGB LED,Rotary Encoder and a 0.91 inch OLED screen.this keyboard is power by 3rd party Pico clone board with usb-c port. i also design a custom Case that uses a bottom mount system, The case will be 3d printed with FDM technology Using PETG and be painted later using spray paint. The plate will be fabricated using aluminum 6061-T6 Alloy and have an anodized blue and glass bead sanding finish.There's also a custom Knob that will be printed using PLA.
+RAINBOW DASH KEYBOARD is a 75% and TKL Hybrid MLP theme keyboard. this keyboard features 84 mechanical switches with hot swappable socket ,Backlit south facing RGB LED,Rotary Encoder and a 0.91 inch OLED screen.this keyboard is power by 3rd party Pico clone board with usb-c port. i also design a custom Case that uses a bottom mount system, The case will be 3d printed with FDM technology Using PETG and be painted later using spray paint. The plate will be fabricated using aluminum 6061-T6 Alloy and have an anodized blue and glass bead sanding finish.There's also a custom Knob that will be printed using PLA.
 
 ## The WHY   
 so this is my first keyboard, so i decide to challenge myself to create something that's distinctly me. something that other people doesn't have and that is functional so a keyboard is fun little challenge.i want to be able look at me keyboard and be reminded of the countless night i spend making this keyboard.  
@@ -57,7 +57,7 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 ## Solder on component  (ALIEXPRESS & ELEMENT14)
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |
-| 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | RM24.60 | 6.02$ |
+| 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | RM24.60 | 6.02$ | 
 | 2. | Kalih Hot Swappable socket (110pc) | RM24.75 | 6.06$ |
 | 3. | 330R resistor 100pc | RM4.59 | 1.12$ |
 | 4. | 4700R resistor 100pc | RM10 | 2.45$ |
@@ -72,9 +72,9 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 | 13. | Third party Pi-Pico with Usb-c 1pc | Rm10.49 | 2.57$ |
 | 14. | 0.91inch OLED SCREEN 1pc | RM9.65 | 2.36$ |
 | 15. | 1mm transparent acrylic sheet 1 pc | RM3.75 | 0.92$ |
-| 16. | Shipping Fee (ALIEXPRESS) | RM 10.7 | 2.62$ |
-| - | total | RM173.61 | 42.46$ |
-## ACCESSORY (ALIEXPRESS)
+| - | total | RM177.52 | 43.48$ |
+
+## ACCESSORY (ALIEXPRESS)&(ELE
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |  
 | 1. | Jaycomia Rainbow PBT Keycaps Set | RM83.15 | 20.37$ |
@@ -82,6 +82,17 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 | 3. | Durock Stabilizer V3 set 4(2u) 1(6.25u) | RM74.55 | 18.26$ |
 | 4. | Fancy rainbow coiled Usb-C cable with aviator connector | RM32.52 | 7.97$ |
 | - | total | RM273.85 | 67.09$ | 
+
+## Total (ALIEXPRESS)   
+| No | DESC | MYR | USD |
+| -- | ---- | --- | --- |
+| 1. | Solder On Components | RM177.52 | 43.48$ |
+| 2. | ACCESSORY | RM273.85 | 67.09$ |
+| 3. | Shipping Fee (ALIEXPRESS) | RM6.45 | 1.58$ |
+| 4. | Shipping Fee (ELEMENT14) | None | None |
+| 5. | TAX (ALIEXPRESS) | RM44.64 | 10.93$ | 
+| 6. | Extra 5$ for daily price fluctuation Aliexpress | RM20.41 | 5$ | 
+| - | Total | RM522.87 | 128.08$ |
 
 ## CASE (PCBWAY & LOCAL 3D PRINTING SERVICE)
 
@@ -103,7 +114,7 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 
 # total PRICE 
 
-PCB(21.23$) + Component&Accssory(109.55$) + CASE(139.92$) = 270.7$
+PCB(21.23$) + Component&Accssory(128.08$) + CASE(139.92$) = 289.23$
 
 
 
