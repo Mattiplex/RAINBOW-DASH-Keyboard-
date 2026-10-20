@@ -14,9 +14,9 @@ so this is my first keyboard, so i decide to challenge myself to create somethin
 i learn lots of stuff, first of all is to do tons of research before going through something you're not familiar with. i also how to make a keyboard , how to plan your keyboard before hand so you don't mess up later in your PCB phase. (i learn all of these the hard way).
 CAD is a bit harder for me because im such a perfectionist. but everything gets better with the flow of time as you gain experience. now the KEYWORD here is failing. during the whole length of this project , i fail a lot and that's how i learn ,you learn by failing and trying again.
 
-# ASSEMBLY 
+# ASSEMBLY Video
 
-
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/13a434b921742fb5bcc9c8514ac6b43cf6ff1055/photo%20folder%20unlabel/rainbowdashkeyboardassembly-ezgif.com-gif-to-apng-converter.png">
 
 # Time   
 
