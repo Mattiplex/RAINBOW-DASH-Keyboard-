@@ -7,7 +7,7 @@ oh yeah , watch me take on this four day challenge to create this keyboard with 
 
 # The What,Why and What i learn.  
 ## The WHAT
-RAINBOW DASH KEYBOARD is a 75% and TKL Hybrid MLP theme keyboard. this keyboard features 84 mechanical switches with hot swappable socket ,Backlit south faacing RGB LED,Rotary Encoder and a 0.91 inch OLED screen.this keyboard is power by 3rd party Pico clone board with usb-c port. i also design a custom Case that uses a bottom mount system, The case will be 3d printed with FDM technology Using ABS and be painted later using spray paint. The plate will be fabricated using aluminum 6061-T6 Alloy and have an anodized blue and glass bead sanding finish.There's also a custom Knob that will be printed using PLA.
+RAINBOW DASH KEYBOARD is a 75% and TKL Hybrid MLP theme keyboard. this keyboard features 84 mechanical switches with hot swappable socket ,Backlit south faacing RGB LED,Rotary Encoder and a 0.91 inch OLED screen.this keyboard is power by 3rd party Pico clone board with usb-c port. i also design a custom Case that uses a bottom mount system, The case will be 3d printed with FDM technology Using PETG and be painted later using spray paint. The plate will be fabricated using aluminum 6061-T6 Alloy and have an anodized blue and glass bead sanding finish.There's also a custom Knob that will be printed using PLA.
 
 ## The WHY   
 so this is my first keyboard, so i decide to challenge myself to create something that's distinctly me. something that other people doesn't have and that is functional so a keyboard is fun little challenge.i want to be able look at me keyboard and be reminded of the countless night i spend making this keyboard.  
@@ -95,6 +95,15 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 | 6. | shipping Fee (PCBWAY) | - | none (air freight) |   
 | - | Total | RM404.89 | 138.92$ | 
 
+## excluded stuff (coz it's expensive enough alr)
+* spray paint & primer 
+* high grit sand paper 
+* solder and flux 
+
+
+# total PRICE 
+
+PCB(21.23$) + Component&Accssory(109.55$) + CASE(139.92$) = 270.7$
 
 
 
