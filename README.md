@@ -83,7 +83,7 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 | 4. | Fancy rainbow coiled Usb-C cable with aviator connector | RM32.52 | 7.97$ |
 | - | total | RM273.85 | 67.09$ | 
 
-## Total (ALIEXPRESS)   
+## Total (ALIEXPRESS) & (ELEMENT14)
 | No | DESC | MYR | USD |
 | -- | ---- | --- | --- |
 | 1. | Solder On Components | RM177.52 | 43.48$ |
