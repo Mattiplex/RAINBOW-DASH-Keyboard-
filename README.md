@@ -74,7 +74,7 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 | 15. | 1mm transparent acrylic sheet 1 pc | RM3.75 | 0.92$ |
 | - | total | RM177.52 | 43.48$ |
 
-## ACCESSORY (ALIEXPRESS)&(ELE
+## ACCESSORY (ALIEXPRESS)
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |  
 | 1. | Jaycomia Rainbow PBT Keycaps Set | RM83.15 | 20.37$ |
