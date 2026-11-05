@@ -1,0 +1,5 @@
+this is the first version of the firmware , there is still lots to do, currently i have no way to test this so its not functional yet.  
+currently the keymap and the layout is defined now , but there is an issue , cuz my project uses a gpio expander and i have no idea how to   
+write code for that. this isn't help by the lack of video tutorial in YT that cover Rmk firmware plus the official guide doesn't have tutorial for this.  
+i am only to fine one japanese ytber covering this so yeah. for now , i'll stick rmk first then i'll see if change to other firmware  
+in the future.
