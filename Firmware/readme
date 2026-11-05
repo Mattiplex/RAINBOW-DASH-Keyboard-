@@ -3,5 +3,5 @@ currently the keymap and the layout is defined now , but there is an issue , cuz
 write code for that. this isn't help by the lack of video tutorial in YT that cover Rmk firmware plus the official guide doesn't have tutorial for this.  
 i am only able to fine one Japanese ytber covering this so yeah. for now , i'll stick rmk first then i'll see if change to other firmware  
 in the future.
-oh yeah i should add that due me being inexpirience using RMK & rust in general, there's some error that i don't know how to fix at this   
+oh yeah i should add that due to me being inexpirience using RMK & rust in general, there's some error that i don't know how to fix at this   
 moment. That makes me unable to compile my firmware to uf2 format ,because of some error.
