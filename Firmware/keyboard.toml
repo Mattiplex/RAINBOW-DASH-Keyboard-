@@ -27,23 +27,15 @@ map = """
 """
 
 [keymap]
-layers = 3
+layers = 1
 
 [[keymap.layer]] # layer 0
 keys = """ 
 F1 F2 F2 F4 F4 F5 F6 F7 F8 F9 F10 F11 F12 
 Grave Kc1 Kc2 Kc3 Kc4 Kc5 Kc6 Kc7 Kc8 Kc9 kc0 Minus Equal Backspace 
-Tab Q W E R T Y U I O P LeftBracket RightBracket Backslash PgUp
-CapsLock A S D F G H J K L Semicolon Quote Enter PgDown
+Tab Q W E R T Y U I O P LeftBracket RightBracket Backslash PageUp
+CapsLock A S D F G H J K L Semicolon Quote Enter PageDown
 LShift Z X C V B N M Comma Dot Slash RShift AudioVolUp BrightnessUp Up BrightnessDown
-LCrtl Home LAlt Space RAlt Delete Menu RCrtl AudioVolDown Left Down Right 
-"""
-
-[[keymap.layer]] # layer 1
-keys = """
-_  TT(1)  TG(2)
-_  _      _
-_  _      _
-_  _      _
+LCtrl PrintScreen LAlt Space RAlt Delete Menu RCtrl AudioVolDown Left Down Right 
 """
 
