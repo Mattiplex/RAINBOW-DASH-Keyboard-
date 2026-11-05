@@ -170,3 +170,9 @@ enjoy this assembly animation i made :)
 
 # hi turns out that's not the final devblog
 so today 5/11/26 and yesterday i been setting up Rust and RMK firmware on my computer and i only just finish writing the firmware or at least what would be the firmware for my keyboard. anyway tutorial for RMK is almost non-existent, as i found only one japanese ytber covering this topic. so after i install RMK in my laptop, i create the project file for my firmware through the terminal then after that  i edited the keyboard.toml. at first i thought i have to manually type in the keyboard matrix turns out you can import kle json file into it but i did it before i realised it no biggie really. then i proceeded to manually type in the keymap cuz that's the only way. then that's it but no, there's more my keyboard uses a gpio extension chip to control my 4 other column of keys and the oled screen and encoder. well in the offical Rmk guide there's no section covering this subject so i have no idea how to actually integrate this gpio expander into the firmware. that's why the uf2 compilation fail, cuz there's an error.
+
+// 5/11/26 just now  
+so there's some typo issue and i have actually define 3 keymap layer but i only have one so the rust analyst is returning an error,  
+so i change that to one and it's fix. 
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/ba59b101aa8acc6071bddf480a2b72e2f5a3f635/photo%20folder%20unlabel/Screenshot%202026-11-05%20235412.png">   
+<img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/ba59b101aa8acc6071bddf480a2b72e2f5a3f635/photo%20folder%20unlabel/Screenshot%202026-11-05%20235824.png">
