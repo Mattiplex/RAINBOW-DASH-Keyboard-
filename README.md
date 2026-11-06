@@ -1,7 +1,7 @@
 # RAINBOW-DASH-KEYBOARD-
 A MLP theme KEYBOARD !!!
 
-oh yeah , watch me take on this four day challenge to create this keyboard with no experience. (editing matthew here) so keeb got extended but i miss the deadline so im shipping to STARDANCE
+oh yeah , watch me take on this four day challenge to create this keyboard with no experience. (editing matthew here) so keeb got extended but i miss the deadline so im shipping to STARDANCE. oh well stardance has ended also well better luck at fabricate !!!
 
 <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20165513.png">
 
