@@ -94,16 +94,14 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 | 6. | Extra 5$ for daily price fluctuation Aliexpress | RM20.41 | 5$ | 
 | - | Total | RM522.87 | 128.08$ |
 
-## CASE (PCBWAY & LOCAL 3D PRINTING SERVICE)
+## CASE (PCBWAY & Printing Legion)
 
 | No | DESC | MYR | USD | 
 | -- | ---- | --- | --- |
-| 1. | Top Case (local) | RM105.62 | 25.86$ |
-| 2. | Bottom Case (local) | RM287.71 | 70.46$ |
-| 3. | Custom Knob | RM 1.96 | 0.48$ | 
-| 4. | aluminum Plate (PCBWAY) | - | 39.77$ | 
-| 5. | shipping Fee (local) | RM9.60 | 2.35$ |
-| 6. | shipping Fee (PCBWAY) | - | none (air freight) |   
+| 1. | Top Case (Printing Legion) | 0 | 30$ |
+| 2. | aluminum Plate (PCBWAY) | - | 39.77$ | 
+| 3. | shipping Fee (Printing Legion) | - | 10$ |
+| 4. | shipping Fee (PCBWAY) | - | none (air freight) |   
 | - | Total | RM404.89 | 138.92$ | 
 
 ## excluded stuff (coz it's expensive enough alr)
@@ -114,7 +112,7 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 
 # total PRICE 
 
-PCB(21.23$) + Component&Accssory(128.08$) + CASE(139.92$) = 289.23$
+PCB(21.23$) + Component&Accssory(128.08$) + CASE(79.77$) = 229.08$
 
 
 
