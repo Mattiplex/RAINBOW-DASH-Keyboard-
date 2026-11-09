@@ -50,39 +50,37 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 
 # price 
 
-## PCB (JLCPCB) 
-
-| No | DESC | MYR | USD | 
-| -- | ---- | --- | --- |
-| 1. | PCB Board (5 piece) | - | 21.23USD | 
-| 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | RM24.60 | 6.02$ | 
-| 2. | Kalih Hot Swappable socket (110pc) | RM24.75 | 6.06$ |
-| 3. | 330R resistor 100pc | RM4.59 | 1.12$ |
-| 4. | 4700R resistor 100pc | RM10 | 2.45$ |
-| 5. | MCP23017 DIP28 2pc | RM24.56 | 6.02$ |
-| 6. | EC11 Rotary Encoder 1pc | RM2.98 | 0.73$ |
-| 7. | M2 Heatset Insert L 3mm 50pc | RM5.77 | 1.41$ |
-| 8. | M3 Heatset Insert L 3mm 50pc | RM6.02 | 1.47$ |
-| 9. | HZYUEGOU M2 hex wafer head screw  5mm 50pc | RM3.83 | 0.94$ |
-| 10. | HZUEGOU M3 hex Wafer head screw 20mm 25pc | Rm4.55 |  1.11$ |
-| 11. | 1N4148 0805 SOD-323 diode 100pc | RM3.88 |  0.95$ |
-| 12. | SK6812 MINi-E RGB reverse mount 100pc | RM23.33 | 5.71$ |
-| 13. | Third party Pi-Pico with Usb-c 1pc | Rm10.49 | 2.57$ |
-| 14. | 0.91inch OLED SCREEN 1pc | RM9.65 | 2.36$ |
-| 15. | 1mm transparent acrylic sheet 1 pc | RM3.75 | 0.92$ 
-| 1. | Jaycomia Rainbow PBT Keycaps Set | RM83.15 | 20.37$ |
-| 2. | Kalih Box Jade Tactile switch (90pc) | RM83.63 | 20.49$ |
-| 3. | Durock Stabilizer V3 set 4(2u) 1(6.25u) | RM74.55 | 18.26$ |
-| 4. | Fancy rainbow coiled Usb-C cable with aviator connector | RM32.52 | 7.97$ |
-| 3. | Shipping Fee (ALIEXPRESS) | RM6.45 | 1.58$ |
-| 4. | Shipping Fee (ELEMENT14) | None | None |
-| 5. | TAX (ALIEXPRESS) | RM44.64 | 10.93$ | 
-| 6. | Extra 5$ for daily price fluctuation Aliexpress | RM20.41 | 5$ | 
-| 1. | Top Case,bottom case & custom knob (Printing Legion) | - | 30$ |
-| 2. | aluminum Plate (PCBWAY) | - | 39.77$ | 
-| 3. | shipping Fee (Printing Legion) | - | 10$ |
-| 4. | shipping Fee (PCBWAY) | - | none (air freight) |   
-| - | Total | RM508.1 | 225.44$ | 
+| No | DESC | USD | 
+| -- | ---- | --- |
+| 1. | PCB Board (5 piece)| 21.23USD | 
+| 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | 6.02$ | 
+| 2. | Kalih Hot Swappable socket (110pc) | 6.06$ |
+| 3. | 330R resistor 100pc | 1.12$ |
+| 4. | 4700R resistor 100pc | 2.45$ |
+| 5. | MCP23017 DIP28 2pc | 6.02$ |
+| 6. | EC11 Rotary Encoder 1pc | 0.73$ |
+| 7. | M2 Heatset Insert L 3mm 50pc  | 1.41$ |
+| 8. | M3 Heatset Insert L 3mm 50pc  | 1.47$ |
+| 9. | HZYUEGOU M2 hex wafer head screw  5mm 50pc  | 0.94$ |
+| 10. | HZUEGOU M3 hex Wafer head screw 20mm 25pc  |  1.11$ |
+| 11. | 1N4148 0805 SOD-323 diode 100pc |  0.95$ |
+| 12. | SK6812 MINi-E RGB reverse mount 100pc | 5.71$ |
+| 13. | Third party Pi-Pico with Usb-c 1pc | 2.57$ |
+| 14. | 0.91inch OLED SCREEN 1pc  | 2.36$ |
+| 15. | 1mm transparent acrylic sheet 1 pc | 0.92$ |
+| 1. | Jaycomia Rainbow PBT Keycaps Set | 20.37$ |
+| 2. | Kalih Box Jade Tactile switch (90pc) | 20.49$ |
+| 3. | Durock Stabilizer V3 set 4(2u) 1(6.25u) | 18.26$ |
+| 4. | Fancy rainbow coiled Usb-C cable with aviator connector | 7.97$ |
+| 3. | Shipping Fee (ALIEXPRESS) | 1.58$ |
+| 4. | Shipping Fee (ELEMENT14) | None |
+| 5. | TAX (ALIEXPRESS) | 10.93$ | 
+| 6. | Extra 5$ for daily price fluctuation Aliexpress | 5$ | 
+| 1. | Top Case,bottom case & custom knob (Printing Legion) | 30$ |
+| 2. | aluminum Plate (PCBWAY) | 39.77$ | 
+| 3. | shipping Fee (Printing Legion) | 10$ |
+| 4. | shipping Fee (PCBWAY) | none (air freight) |   
+| - | Total | 225.44$ | 
 
 ## excluded stuff (coz it's expensive enough alr)
 * spray paint & primer 
