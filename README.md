@@ -28,6 +28,9 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 * KEYBOARD PLATE : Laser Cut Aluminum (anodized blue + bead blast)
 * CUSTOM Knob : PLA WHITE
 
+# README
+3D PRINTING : PRINTING LEGION @raahicheda4 (SG)
+
 <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20002253.png"> <img src="https://github.com/Mattiplex/RAINBOW-DASH-Keyboard-/blob/aedc2de021e09c3709258496fd006df7548ddd43/photo%20folder%20unlabel/Screenshot%202026-10-20%20003000.png">
 
 
@@ -102,7 +105,7 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 | 2. | aluminum Plate (PCBWAY) | - | 39.77$ | 
 | 3. | shipping Fee (Printing Legion) | - | 10$ |
 | 4. | shipping Fee (PCBWAY) | - | none (air freight) |   
-| - | Total | RM404.89 | 138.92$ | 
+| - | Total | - | 79.77$ | 
 
 ## excluded stuff (coz it's expensive enough alr)
 * spray paint & primer 
