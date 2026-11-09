@@ -23,8 +23,8 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
 # The Case 
 
 i used Bottom style mount to house my pcb , since i think it's the most balance layout between sound , cost and complexity . i also made the plate to integrate inside the bottom case so the plate would sit flush in the case. 
-* Bottom Case: PETG WHITE
-* TOP Case : PETG WHITE
+* Bottom Case: PLA WHITE
+* TOP Case : PLA WHITE
 * KEYBOARD PLATE : Laser Cut Aluminum (anodized blue + bead blast)
 * CUSTOM Knob : PLA WHITE
 
