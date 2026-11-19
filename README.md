@@ -25,8 +25,13 @@ CAD is a bit harder for me because im such a perfectionist. but everything gets 
 i used Bottom style mount to house my pcb , since i think it's the most balance layout between sound , cost and complexity . i also made the plate to integrate inside the bottom case so the plate would sit flush in the case. 
 * Bottom Case: PLA WHITE
 * TOP Case : PLA WHITE
-* KEYBOARD PLATE : Laser Cut Aluminum (anodized blue + bead blast)
+* KEYBOARD PLATE : PLA WHITE 
 * CUSTOM Knob : PLA WHITE
+
+## the whole assembly  
+STEP FILE:https://files.catbox.moe/6mzixy.step  
+
+FUSION FILE:https://files.catbox.moe/et670v.f3z
 
 # README
 3D PRINTING : PRINTING LEGION @raahicheda4 (SG)
@@ -52,7 +57,7 @@ i used Bottom style mount to house my pcb , since i think it's the most balance 
 
 | No | DESC | USD | 
 | -- | ---- | --- |
-| 1. | PCB Board (5 piece)| 21.23USD | 
+| 1. | PCB Board (5 piece)| 51.03USD | 
 | 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | 6.02$ | 
 | 2. | Kalih Hot Swappable socket (110pc) | 6.06$ |
 | 3. | 330R resistor 100pc | 1.12$ |
