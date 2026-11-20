@@ -55,37 +55,31 @@ FUSION FILE:https://files.catbox.moe/et670v.f3z
 
 # price 
 
-| No | DESC | USD | 
-| -- | ---- | --- |
-| 1. | PCB Board (5 piece)| 51.03USD | 
-| 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | 6.02$ | 
-| 2. | Kalih Hot Swappable socket (110pc) | 6.06$ |
-| 3. | 330R resistor 100pc | 1.12$ |
-| 4. | 4700R resistor 100pc | 2.45$ |
-| 5. | MCP23017 DIP28 2pc | 6.02$ |
-| 6. | EC11 Rotary Encoder 1pc | 0.73$ |
-| 7. | M2 Heatset Insert L 3mm 50pc  | 1.41$ |
-| 8. | M3 Heatset Insert L 3mm 50pc  | 1.47$ |
-| 9. | HZYUEGOU M2 hex wafer head screw  5mm 50pc  | 0.94$ |
-| 10. | HZUEGOU M3 hex Wafer head screw 20mm 25pc  |  1.11$ |
-| 11. | 1N4148 0805 SOD-323 diode 100pc |  0.95$ |
-| 12. | SK6812 MINi-E RGB reverse mount 100pc | 5.71$ |
-| 13. | Third party Pi-Pico with Usb-c 1pc | 2.57$ |
-| 14. | 0.91inch OLED SCREEN 1pc  | 2.36$ |
-| 15. | 1mm transparent acrylic sheet 1 pc | 0.92$ |
-| 1. | Jaycomia Rainbow PBT Keycaps Set | 20.37$ |
-| 2. | Kalih Box Jade Tactile switch (90pc) | 20.49$ |
-| 3. | Durock Stabilizer V3 set 4(2u) 1(6.25u) | 18.26$ |
-| 4. | Fancy rainbow coiled Usb-C cable with aviator connector | 7.97$ |
-| 3. | Shipping Fee (ALIEXPRESS) | 1.58$ |
-| 4. | Shipping Fee (ELEMENT14) | None |
-| 5. | TAX (ALIEXPRESS) | 10.93$ | 
-| 6. | Extra 5$ for daily price fluctuation Aliexpress | 5$ | 
-| 1. | Top Case,bottom case & custom knob (Printing Legion) | 30$ |
-| 2. | aluminum Plate (PCBWAY) | 39.77$ | 
-| 3. | shipping Fee (Printing Legion) | 10$ |
-| 4. | shipping Fee (PCBWAY) | none (air freight) |   
-| - | Total | 225.44$ | 
+| No | DESC | USD | LINK |
+| -- | ---- | --- | - |
+| 1. | 0805 SMD Cap (20 Piece) ELEMENT14 | 5.84$ | https://my.element14.com/kemet/c0805c104k1ractu/cap-0-1-f-100v-10-x7r-0805/dp/1650862 |
+| 2. | Kalih Hot Swappable socket (110pc) | 5.84$ | https://www.aliexpress.com/item/1005007232040760.html?mp=1 |
+| 3. | 330R resistor 100pc | 2.43$ | https://www.aliexpress.com/item/1005006848644172.html?mp=1 |
+| 4. | 4700R resistor 100pc | 2.47$ | https://www.aliexpress.com/item/1005006848644172.html?mp=1 |
+| 5. | MCP23017 DIP28 2pc | 1.78$ | https://www.aliexpress.com/item/1005008686069126.html?mp=1 | 
+| 6. | EC11 Rotary Encoder 1pc | 0.69$ | https://www.aliexpress.com/item/1005007644083514.html?algo_exp_id=4c29e24d-bd95-477d-9c53-9326bed60996-0&pdp_ext_f=%7B%22order%22%3A%224254%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007644083514%7C_p_origin_prod%3A#nav-specification |
+| 7. | M2 Heatset Insert L 3mm 50pc  | 1.36$ | https://www.aliexpress.com/item/1005003582355741.html?mp=1 |
+| 8. | M3 Heatset Insert L 3mm 50pc  | 1.42$ | https://www.aliexpress.com/item/1005003582355741.html?mp=1 | 
+| 9. | HZYUEGOU M2 hex wafer head screw  5mm 50pc  | 0.90$ | https://www.aliexpress.com/item/4001072025844.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D |
+| 10. | HZUEGOU M3 hex Wafer head screw 20mm 25pc  |  1.07$ | https://www.aliexpress.com/item/4001072025844.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D | 
+| 11. | 1N4148 0805 SOD-323 diode 100pc |  0.80$ | https://www.aliexpress.com/item/1005002340232205.html?aem_p4p_detail=202609130327334855863057175440001149737&algo_exp_id=60b4e76f-acf9-47cb-b672-48cb1d45c1d7-7&pdp_ext_f=%7B%22order%22%3A%22220%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002340232205%7C_p_origin_prod%3A&search_p4p_id=202609130327334855863057175440001149737_2#nav-specification | 
+| 12. | SK6812 MINi-E RGB reverse mount 100pc | 4.97$ | https://www.aliexpress.com/item/1005005193716172.html?mp=1 |
+| 13. | Third party Pi-Pico with Usb-c 1pc | 2.67$ | - bundle deals no link |
+| 14. | 0.91inch OLED SCREEN 1pc  | 2.47$ | - bundle deals no link |
+| 15. | 1mm transparent acrylic sheet 1 pc | 1.02$ | - bundle deals no link | 
+| 16. | Kalih Box Jade Tactile switch (90pc) | 17.38$ |
+| 17. | PCB Board (5pc) | 51.02 | - | 
+| 18. | Shipping Fee (ALIEXPRESS) | 1.58$ | - |
+| 19. | Shipping Fee (ELEMENT14) | None | - |
+| 20. | TAX (ALIEXPRESS) | 5.7$ | - | 
+| 21. | Top Case,bottom case,Rainbow plate  & custom knob (Printing Legion) | 40$ | https://hackclub.slack.com/archives/C083P4FJM46/p1792146024675589 |
+| 22. | shipping Fee (Printing Legion) | 10$ | https://hackclub.slack.com/archives/C083P4FJM46/p1792146024675589 |
+| - | Total | 161.41$ | - |
 
 ## excluded stuff (coz it's expensive enough alr)
 * spray paint & primer 
